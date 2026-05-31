@@ -26,6 +26,8 @@ Short description of what the project does.
 
 ## Contact
 Email: techmiarytechnology@gmail.com
+07010996154
+08051301661
 
 ## Installation
 ```bash
